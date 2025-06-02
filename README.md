@@ -2,7 +2,6 @@
 
 A modern web application built with Next.js that allows users to generate and translate YouTube video transcripts into multiple languages. The application provides a clean, user-friendly interface and supports a wide range of languages.
 
-![Project Preview](docs/preview.png)
 
 ## 🌟 Features
 
@@ -28,7 +27,7 @@ A modern web application built with Next.js that allows users to generate and tr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/multilingual-youtube-transcript-generator.git
+git clone https://github.com/ReyKan-KP/multilingual-youtube-transcript-generator.git
 cd multilingual-youtube-transcript-generator
 ```
 
